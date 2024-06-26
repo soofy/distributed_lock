@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "sourceMap": true,
+    "outDir": "dist",
+    "strict": false,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "target": "ESNext",
+    "moduleResolution": "Node",
+    "sourceRoot": "src"
+  },
+  "include": [
+    "src/**/*",
+    "db.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "public_html",
+    "test",
+    "**/*.spec.ts",
+    "**/*.test.ts",
+  ]
+}

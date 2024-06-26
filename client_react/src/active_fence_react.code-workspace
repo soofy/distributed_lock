@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../active_fence_server"
+		}
+	],
+	"settings": {}
+}
